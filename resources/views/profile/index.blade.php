@@ -10,7 +10,7 @@
 
             <div class="d-flex justify-content-between align-items-baseline">
                 <div class="d-flex align-item-center pb-4">
-                    <h1>{{ $user->name }} </h1>
+                    <h1>{{ $user->profile->title }} </h1>
                     <follow-button user-id="{{ $user->id }}" follows="{{ $follows }}"></follow-button>
                 </div>
                 <a href="/post/create" class="btn btn-primary">Add New Post</a>
