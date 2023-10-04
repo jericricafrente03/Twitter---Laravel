@@ -90,15 +90,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-🐦 Twitter Functionalities with Laravel
-
-Welcome to my GitHub! I'm passionate about recreating the essence of social media platforms like Twitter using Laravel, a robust PHP framework. Here, you'll find my projects dedicated to building scalable and feature-rich social networking applications. From user authentication and real-time tweeting to hashtag trends and follower interactions, these projects showcase the power of Laravel in creating dynamic social media experiences.
-
-What You'll Find Here:
-
-✨ User Profiles: Projects featuring user authentication, profile customization, and secure login systems.
-📝 Tweeting Functionality: Innovative solutions for posting, editing, and deleting tweets in real-time.
-🔍 Hashtag Trends: Tools for tracking and displaying trending hashtags based on user interactions.
-🤝 Follower Interactions: Implementations of follower/following systems and interactive timelines.
-Feel free to explore my repositories, contribute to ongoing projects, or reach out if you have ideas to share or questions about building social media platforms with Laravel. Let's transform ideas into engaging online communities together!
